@@ -20,4 +20,4 @@
 include:
   - board: zaphod
   - board: seeeduino_xiao_ble
-    shield: zaphod_lite
+    #shield: zaphod_lite
